@@ -1,0 +1,17 @@
+# Environment and Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.lock
+*.tmp
